@@ -1,7 +1,5 @@
- Qs1. Create a number variable num with some value.
+Qs1. Create a number variable num with some value.
 Now, print “good” if the number is divisible by 10 and print “bad” if it is not.
-
-
 Ans:-
 
 let num = 74;
@@ -22,7 +20,6 @@ name is age years old.
 [Use template Literals to print this sentence] 
 
 Ans:-
-
 let username = prompt("Enter user name:");
 let age = prompt("Enter user Age :");
 alert(`${username} is ${age} years old`);
@@ -38,7 +35,6 @@ Qs3. Write a switch statement to print the months in a quarter.
  [Use the number as the case value in switch]
 
 Ans:-
-
  let Quarter = 3;
  switch(Quarter){
     case 1:
@@ -57,7 +53,6 @@ Ans:-
         console.log("Invalid Quarter");
 
     } 
-
 
 
  Qs4. A string is a golden string if it starts with the character ‘A’ or ‘a’ and has a total length greater than 5.
